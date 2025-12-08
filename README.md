@@ -1,6 +1,6 @@
 # Hi there, I'm Sadaham 👋
 
-🎓 University Student | 💻 Aspiring Software Engineer  
+🎓 University Student | 
 🚀 Passionate about building real-world projects and learning new technologies
 
 ---
