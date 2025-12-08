@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Sadaham 👋
 
-<!--
-**sadahamvishwanath/sadahamvishwanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 University Student | 💻 Aspiring Software Engineer  
+🚀 Passionate about building real-world projects and learning new technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Languages:** Java, Python, JavaScript  
+- **Web:** HTML, CSS  
+- **Game Dev:** Godot (2D & 3D)  
+- **Interests:** AI, Cybersecurity, Web Development, Game Development
+
+---
+
+## 📌 What I'm Currently Doing
+
+- 📚 Studying at university  
+- 🧠 Learning advanced programming & problem-solving  
+- 🔨 Building projects for my GitHub portfolio  
+- 🎯 Preparing for internships & future software jobs
+---
+
+⭐ *Thanks for visiting my profile!*
