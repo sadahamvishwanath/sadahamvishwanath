@@ -20,35 +20,105 @@
 🎮 Love building games with Godot
 🧠 Problem Solver
 ☕ Coffee + Music + Code
-🛠 Tech Stack
-Languages
-<p> <img src="https://skillicons.dev/icons?i=java,python,js" /> <img src="https://cdn.simpleicons.org/r/276DC3" height="48"/> <img src="https://cdn.simpleicons.org/mysql/4479A1" height="48"/> </p>
-Web Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,react" /> </p>
-Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" /> </p>
-Game Development
-<p> <img src="https://skillicons.dev/icons?i=godot" /> </p>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=sadahamvishwanath&theme=midnight-purple&hide_border=true"/> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/sadahamvishwanath/sadahamvishwanath/output/github-contribution-grid-snake.svg" alt="Snake animation"/> </div>
-🌱 Currently Learning
-Artificial Intelligence
-Machine Learning
-Software Engineering
-Database Systems
-React
-Problem Solving
-🎯 Goals
-🚀 Build impactful real-world projects
-🤖 Become an AI Engineer
-💼 Secure a Software Engineering Internship
-📚 Keep improving every day
-💭 Developer Quote
+```
 
-"The best way to predict the future is to build it."
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+<img src="https://cdn.simpleicons.org/r/276DC3" height="48"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="48"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" />
+</p>
+
+### Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=godot" />
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <div align="center">
-⭐ Thanks for visiting my profile!
-<img src="https://komarev.com/ghpvc/?username=sadahamvishwanath&color=blueviolet&style=for-the-badge"/> </div> ```
+
+| Project | Description |
+|---|---|
+| 🌸 Sakura Tasks | Full-stack task management application |
+| 🔐 Facebook Login | Authentication system project |
+| 🔌 ESP32 Projects | IoT and embedded system solutions |
+| 🌐 DCN Quiz App | Interactive networking quiz platform |
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sadahamvishwanath&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sadahamvishwanath/sadahamvishwanath/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- Database Systems
+- React
+- Problem Solving
+
+---
+
+# 🎯 Goals
+
+- 🚀 Build impactful real-world projects
+- 🤖 Become an AI Engineer
+- 💼 Secure a Software Engineering Internship
+- 📚 Keep improving every day
+
+---
+
+# 💭 Developer Quote
+
+> *"The best way to predict the future is to build it."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=sadahamvishwanath&color=blueviolet&style=for-the-badge"/>
+
+</div>
