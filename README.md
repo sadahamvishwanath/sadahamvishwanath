@@ -54,15 +54,18 @@
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sadahamvishwanath&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadahamvishwanath&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sadahamvishwanath&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadahamvishwanath&layout=compact&theme=midnight-purple&hide_border=true"
+    height="180"
+  />
+</p>
 
 ---
 
