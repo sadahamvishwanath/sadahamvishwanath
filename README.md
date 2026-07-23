@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sadahamvishwanath/sadahamvishwanath/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+![Snake animation dark](https://raw.githubusercontent.com/sadahamvishwanath/sadahamvishwanath/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
