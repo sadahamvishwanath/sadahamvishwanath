@@ -58,12 +58,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sadahamvishwanath&show_icons=true&theme=midnight-purple&hide_border=true"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=sadahamvishwanath&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    alt="GitHub Stats"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadahamvishwanath&layout=compact&theme=midnight-purple&hide_border=true"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadahamvishwanath&layout=compact&theme=tokyonight&cache_seconds=1800"
+    alt="Top Languages"
   />
 </p>
 ---
