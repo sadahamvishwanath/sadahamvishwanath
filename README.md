@@ -79,15 +79,7 @@
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation dark](https://raw.githubusercontent.com/sadahamvishwanath/sadahamvishwanath/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 # 🌱 Currently Learning
 
