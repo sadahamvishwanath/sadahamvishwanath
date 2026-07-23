@@ -63,7 +63,7 @@ s<!-- Banner -->
 | 🌸 Sakura Tasks | Full-stack task management application |
 | 🔐 Facebook Login | Authentication system project |
 | 🔌 ESP32 Projects | IoT and embedded system solutions |
-| 🌐 DCN Quiz App | Interactive networking quiz platform |
+
 
 </div>
 
